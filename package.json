@@ -1,0 +1,29 @@
+{
+    "name": "cookie-tools",
+    "version": "0.0.1",
+    "description": "Parse, manipulate and render cookies",
+    "private": true,
+    "keywords":[
+        "cookie",
+        "cookies",
+        "parse",
+        "render",
+        "manipulate"
+    ],
+    "author": "Dan Larsen",
+    "maintainers": [{
+                        "name": "Dan Larsen",
+                        "email": "dan@techba.se",
+                        "url": "http://github.com/morphar"
+                    }],
+    "dependencies": {
+        "extend-string": ">=0.0.1"
+    },
+    "license": {
+        "type": "MIT"
+    },
+    "main": "./lib/cookies.js",
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
