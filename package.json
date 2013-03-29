@@ -18,6 +18,15 @@
     "dependencies": {
         "extend-string": ">=0.0.1"
     },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/morphar/cookie-tools.git"
+    },
+    "github": "http://github.com/morphar/cookie-tools",
+    "bugs": {
+        "mail": "",
+        "url": "http://github.com/morphar/cookie-tools/issues"
+    },
     "license": {
         "type": "MIT"
     },
