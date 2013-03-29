@@ -8,6 +8,9 @@ As soon as the module has shown it's worth and stability on a live system, it wi
 
 Until then: Feel free to play around with it, learn from it.
 
+### For now…
+If you wanna try it out, have a look at the test.js file.
+
 ### To install
 
 	npm install cookie-tools
