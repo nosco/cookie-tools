@@ -1,37 +1,35 @@
 {
-    "name": "cookie-tools",
-    "version": "0.0.1",
-    "description": "Parse, manipulate and render cookies",
-    "keywords":[
-        "cookie",
-        "cookies",
-        "parse",
-        "render",
-        "manipulate"
-    ],
-    "author": "Dan Larsen",
-    "maintainers": [{
-                        "name": "Dan Larsen",
-                        "email": "dan@techba.se",
-                        "url": "http://github.com/morphar"
-                    }],
-    "dependencies": {
-        "extend-string": ">=0.0.1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "http://github.com/morphar/cookie-tools.git"
-    },
-    "github": "http://github.com/morphar/cookie-tools",
-    "bugs": {
-        "mail": "",
-        "url": "http://github.com/morphar/cookie-tools/issues"
-    },
-    "license": {
-        "type": "MIT"
-    },
-    "main": "./lib/cookies.js",
-    "engines": {
+  "name": "cookie-tools",
+  "version": "0.0.1",
+  "description": "Parse, manipulate and render cookies",
+  "keywords":[
+    "cookie",
+    "cookies",
+    "parse",
+    "render",
+    "manipulate"
+  ],
+  "author": "Dan Larsen",
+  "maintainers": [{
+    "name": "Dan Larsen",
+    "email": "dan@techba.se",
+    "url": "http://github.com/morphar"
+  }],
+  "dependencies": {
+    "extend-string": ">=0.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/morphar/cookie-tools.git"
+  },
+  "github": "http://github.com/morphar/cookie-tools",
+  "bugs": {
+    "mail": "",
+    "url": "http://github.com/morphar/cookie-tools/issues"
+  },
+  "license": "MIT",
+  "main": "./lib/cookies.js",
+  "engines": {
         "node": ">=0.8.0"
-    }
+  }
 }
