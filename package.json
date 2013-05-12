@@ -1,6 +1,6 @@
 {
   "name": "cookie-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse, manipulate and render cookies",
   "keywords":[
     "cookie",
