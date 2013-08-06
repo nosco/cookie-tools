@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/morphar/cookie-tools.git"
+    "url": "http://github.com/nosco/cookie-tools.git"
   },
-  "github": "http://github.com/morphar/cookie-tools",
+  "github": "http://github.com/nosco/cookie-tools",
   "bugs": {
     "mail": "",
-    "url": "http://github.com/morphar/cookie-tools/issues"
+    "url": "http://github.com/nosco/cookie-tools/issues"
   },
   "license": "MIT",
   "main": "./lib/cookies.js",
